@@ -1,4 +1,4 @@
-print ("Hello Word!!!")
+print ("566")
 s = 255
 print (s)
 f = 65692 
